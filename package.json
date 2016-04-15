@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-baidu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple baidu search plugin for Hain",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "hain0"
   ],
-  "author": "Leonardosnt",
+  "author": "as3long",
   "license": "MIT",
   "hain": {
     "prefix": "/b ",
