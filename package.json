@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-baidu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple baidu search plugin for Hain",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "hain": {
     "prefix": "/b ",
     "usage": "/b something",
-    "icon": "#fa fa-baidu",
+    "icon": "/icon.png",
     "redirect": "/b "
   }
 }
