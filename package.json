@@ -1,0 +1,21 @@
+{
+  "name": "hain-plugin-baidu",
+  "version": "0.0.1",
+  "description": "A simple baidu search plugin for Hain",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as3long/hain-plugin-baidu.git"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "Leonardosnt",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/b ",
+    "usage": "/b something",
+    "icon": "#fa fa-baidu",
+    "redirect": "/b "
+  }
+}
